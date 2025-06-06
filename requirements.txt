@@ -1,0 +1,6 @@
+| Package      | Purpose                              | Install Command                           |
+| ------------ | ------------------------------------ | ----------------------------------------- |
+| `tkinter`    | GUI library (built-in with Python)   | *(Comes with Python, no need to install)* |
+| `ttk`        | Part of `tkinter` for styled widgets | *(Included with tkinter)*                 |
+| `tkcalendar` | Date picker widget (`DateEntry`)     | `pip install tkcalendar`                  |
+| `pymysql`    | To connect Python to MySQL database  | `pip install pymysql`                     |
